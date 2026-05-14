@@ -1,0 +1,17 @@
+streamlit>=1.35.0
+pandas>=2.2.0
+numpy>=1.26.0
+google-genai
+anyio
+httpx
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+PyYAML>=6.0.1
+pypdf>=4.2.0
+sentence-transformers>=2.7.0
+scikit-learn>=1.4.0
+openpyxl>=3.1.2
+faiss-cpu
+sympy
+pint
+antlr4-python3-runtime
